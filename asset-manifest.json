@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.80337069.css",
-    "main.js": "/static/js/main.3012a312.js",
-    "static/media/interface2.svg": "/static/media/interface2.0de85357cd938411ac6fe17d492546db.svg",
-    "static/media/eurocaps.ttf": "/static/media/eurocaps.9b298026db6f9f4d5267.ttf",
-    "index.html": "/index.html",
-    "main.80337069.css.map": "/static/css/main.80337069.css.map",
-    "main.3012a312.js.map": "/static/js/main.3012a312.js.map"
+    "main.css": "/HudModMod-Alpha/static/css/main.66c4743d.css",
+    "main.js": "/HudModMod-Alpha/static/js/main.2750a3e2.js",
+    "static/media/interface2.svg": "/HudModMod-Alpha/static/media/interface2.0de85357cd938411ac6fe17d492546db.svg",
+    "static/media/eurocaps.ttf": "/HudModMod-Alpha/static/media/eurocaps.9b298026db6f9f4d5267.ttf",
+    "index.html": "/HudModMod-Alpha/index.html",
+    "main.66c4743d.css.map": "/HudModMod-Alpha/static/css/main.66c4743d.css.map",
+    "main.2750a3e2.js.map": "/HudModMod-Alpha/static/js/main.2750a3e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.80337069.css",
-    "static/js/main.3012a312.js"
+    "static/css/main.66c4743d.css",
+    "static/js/main.2750a3e2.js"
   ]
 }
